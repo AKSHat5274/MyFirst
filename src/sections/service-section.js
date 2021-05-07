@@ -11,7 +11,6 @@ import shapePattern from 'assets/shape-pattern1.png';
 
 import Smart from 'assets/services/smart.svg';
 import Secure from 'assets/services/secure.svg';
-import { NavItem } from 'react-bootstrap';
 
 const data = {
   subTitle: 'our services',
